@@ -1,10 +1,11 @@
 # ibus-table-bengali
+(See the attached pdf file for better understanding)
 DOCUMENTATION: Sasankadeva Unicode, a free add-on for typing Bangla in Linux
 Copyright © 2021 Anamitro Biswas
 
 
 1. (a) Requirements: 'ibus-table' must be installed in your computer and 'ibus' selected as the input method.
-(b) To install Sasankadeva Unicode version 1.0, extract the .zip file or save the Sasankadeva.txt and Sasankadeva.svg in folder, such that these two files remain in a directory, say /<dir.>. Copy the .txt file in same directory with template.txt in ibus-table folder, and the icon with  ibus-table/icons. Refresh ibus. You'll be able to select Bangla (শশাঙ্কদেব) from Bengali input methods (Settings in Ubuntu 20.04, or ibus-setup).
+(b) To install ibus-table-Sasankadeva version 1.0, extract the .zip file or save the Sasankadeva.txt and Sasankadeva.svg in folder, such that these two files remain in a directory, say /<dir.>. Copy the .txt file in same directory with template.txt in ibus-table folder, and the icon with  ibus-table/icons. Refresh ibus. You'll be able to select Bangla (শশাঙ্কদেব) from Bengali input methods (Settings in Ubuntu 20.04, or ibus-setup).
 	E.g., for Ubuntu, open terminal and run
 	$ ibus-table-createdb -n /usr/share/ibus-table/tables/Sasankadeva.db -s /<dir.>/Sasankadeva.txt
 	$ sudo cp /<dir.>/Sasankadeva.svg /usr/share/ibus-table/icons/
