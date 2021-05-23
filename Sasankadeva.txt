@@ -1,9 +1,9 @@
 ### File header must not be modified
 ### This file must be encoded into UTF-8.
 ### This table under LGPL 2.1
+### Copyright © 2021 Anamitro Biswas
 ### comments start with ### not single #
 ### Derive from the format of SCIM Table, so you can modify the table from
-### Copyright © 2021 Anamitro Biswas
 ### scim-tables' table
 SCIM_Generic_Table_Phrase_Library_TEXT
 VERSION_1_0
@@ -11,10 +11,10 @@ VERSION_1_0
 BEGIN_DEFINITION
 
 ### An unique id to distinguish this table among others.
-UUID = e5380f21-e59d-41d4-84d6-b976e086b49a
+UUID = 3f4937c2-5dd5-49a4-b82d-4cf7f685932e
 
 ### A unique number indicates the version of this file.
-SERIAL_NUMBER =23052023
+SERIAL_NUMBER =23052025
 
 ICON =Sasankadeva.svg
 
@@ -28,7 +28,7 @@ STATUS_PROMPT = Sa
 NAME =Sasankadeva
 
 ###We are not responsible for any problem created by using this software.
-NAME.bn_IN =শশাঙ্কদেব
+NAME.bn =শশাঙ্কদেব
 ### Description
 DESCRIPTION = This is a template engine table for IBus Table, for writing Bengali and Sanskrit in Bengali script.
 ### Supported languages of this table
