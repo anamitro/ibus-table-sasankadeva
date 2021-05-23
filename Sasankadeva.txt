@@ -11,10 +11,10 @@ VERSION_1_0
 BEGIN_DEFINITION
 
 ### An unique id to distinguish this table among others.
-UUID = 3f4937c2-5dd5-49a4-b82d-4cf7f685932e
+UUID = e5380f21-e59d-41d4-84d6-b976e086b49a
 
 ### A unique number indicates the version of this file.
-SERIAL_NUMBER =23052025
+SERIAL_NUMBER =23052023
 
 ICON =Sasankadeva.svg
 
@@ -28,7 +28,7 @@ STATUS_PROMPT = Sa
 NAME =Sasankadeva
 
 ###We are not responsible for any problem created by using this software.
-NAME.bn =শশাঙ্কদেব
+NAME.bn_IN =শশাঙ্কদেব
 ### Description
 DESCRIPTION = This is a template engine table for IBus Table, for writing Bengali and Sanskrit in Bengali script.
 ### Supported languages of this table
