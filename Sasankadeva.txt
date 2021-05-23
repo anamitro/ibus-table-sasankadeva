@@ -11,10 +11,10 @@ VERSION_1_0
 BEGIN_DEFINITION
 
 ### An unique id to distinguish this table among others.
-UUID = e5380f21-e59d-41d4-84d6-b976e086b49a
+UUID = 7120c927-08ef-46fb-8a88-c0603a209925
 
 ### A unique number indicates the version of this file.
-SERIAL_NUMBER =23052023
+SERIAL_NUMBER =23052025
 
 ICON =Sasankadeva.svg
 
