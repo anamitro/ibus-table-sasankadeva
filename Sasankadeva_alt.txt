@@ -1,0 +1,436 @@
+### File header must not be modified
+### This file must be encoded into UTF-8.
+### This table under LGPL 2.1
+### Copyright © 2021 Anamitro Biswas
+### comments start with ### not single #
+### Derive from the format of SCIM Table, so you can modify the table from
+### scim-tables' table
+SCIM_Generic_Table_Phrase_Library_TEXT
+VERSION_1_0
+
+BEGIN_DEFINITION
+
+### An unique id to distinguish this table among others.
+UUID = 3f4937c2-5dd5-49a4-b82d-4cf7f685932e
+
+### A unique number indicates the version of this file.
+SERIAL_NUMBER =23052025
+
+ICON =Sasankadeva.svg
+
+### The symbol to be displayed in IM switchers
+SYMBOL = Sa
+
+### Prompt string to be displayed in the status area.
+STATUS_PROMPT = Sa
+
+### The default name of this table
+NAME =Sasankadeva
+
+###We are not responsible for any problem created by using this software.
+NAME.bn =শশাঙ্কদেব
+### Description
+DESCRIPTION = This is a template engine table for IBus Table, for writing Bengali and Sanskrit in Bengali script.
+### Supported languages of this table
+LANGUAGES = bn_IN
+### The author of this table
+AUTHOR = Anamitro Biswas <anamitroappu@gmail.com>
+
+### Layout
+### This table can be used with any layout capable of typing ASCII.
+### Therefore, we should not require a special layout like “us”.
+LAYOUT = default
+
+### If true then the first candidate phrase
+### will be selected automatically during inputing.
+AUTO_SELECT = TRUE
+
+### If true then a multi wildcard will be appended
+### at the end of inputing string automatically.
+AUTO_WILDCARD = TRUE
+
+### Single wildcard char (leave empty if you don’t want a wildcard character).
+SINGLE_WILDCARD_CHAR =
+
+### Multi wildcard char (leave empty if you don’t want a wildcard character).
+MULTI_WILDCARD_CHAR =
+
+### If true then the result string will be committed to client automatically.
+### This should be used with AUTO_SELECT = TRUE.
+AUTO_COMMIT = TRUE
+
+### If true then the inputted string will be automatically splitted during inputing.
+AUTO_SPLIT = TRUE
+
+### If true then the phrases' frequencies will be adjusted dynamically.
+DYNAMIC_ADJUST = FALSE
+
+### If true then the preedit area will be filled up by the current candidate phrase automatically.
+AUTO_FILL = TRUE
+
+### If true then the lookup table will always be shown if there is any candidate phrase.
+### Otherwise the lookup table won't be shown unless the user requires it by moving the preedit caret left.
+ALWAYS_SHOW_LOOKUP = FALSE
+
+### Enable full width punctuation property
+USE_FULL_WIDTH_PUNCT = FALSE
+
+### Use full width punctuation by default
+DEF_FULL_WIDTH_PUNCT = FALSE
+
+### Enable full width letter property
+USE_FULL_WIDTH_LETTER = FALSE
+
+### Use full width letter by default
+DEF_FULL_WIDTH_LETTER = FALSE
+
+### The maxmium length of a key.
+MAX_KEY_LENGTH = 5
+
+### Valid input chars.
+VALID_INPUT_CHARS = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!& `$}<>/\.,~!_^]
+
+### The key strokes to split inputted string.
+###SPLIT_KEYS = quoteright
+
+### The key strokes to commit the convert result to client.
+COMMIT_KEYS = Shift+space
+
+### The key strokes to forward the inputted string to client.
+FORWARD_KEYS = Return
+
+### The key strokes to select candidiate phrases.
+SELECT_KEYS = 1,2,3,4,5,6,7,8,9
+
+### The key strokes to page up the lookup table.
+PAGE_UP_KEYS = Page_Up
+
+### The key strokes to page down the lookup table.
+PAGE_DOWN_KEYS = Page_Down
+
+END_DEFINITION
+
+### Begin Table data.
+### Format of every line whose formated in "input_keys\tphrase\tfreq\n" is an
+### entry.
+### From left to right, the 1st column are the input key combination that you
+### entered via keyboard; the 2nd column are presented character or phrase of
+### the key combination you want; the 3rd column are frequency of the character
+### or phrase.
+BEGIN_TABLE
+k	ক	1000
+K	্ক	1000
+kh	খ	1000
+Kh	্খ	1000
+g	গ	1000
+sh	সহ	1000
+G	্গ	1000
+gh	ঘ	1000
+Gh	্ঘ	1000
+M	্ম	1000
+c	চ	1000
+C	্চ	1000
+ch	ছ	1000
+Ch	্ছ	1000
+j	জ	1000
+jh	ঝ	1000
+Jh	্ঝ	1000
+&	ঞ	1000
+T	ট	1000
+Th	ঠ	1000
+D	ড	1000
+Dh	ঢ	1000
+N	ণ	1000
+t	ত	1000
+th	থ	1000
+d	দ	1000
+dh	ধ	1000
+n	ন	1000
+p	প	1000
+P	্প	1000
+Ph	্ফ	1000
+Phh	্ফহ	1000
+ph	ফ	1000
+f	ফ	1000
+F	্ফ	1000
+b	ব	1000
+bh	ভ	1000
+B	ব	1000
+B	্ভ	1000
+Bh	্ভ	1000
+V	্ত	1000
+Vhh	্তহ	1000
+Vh	্থ	1000
+v	ভ	1000
+W	্দ	1000
+Wh	্ধ	1000
+Whh	্দহ	1000
+m	ম	1000
+J	্জ	1000
+z	য	1000
+r	র	1000
+l	ল	1000
+S	শ	1000
+Sh	ষ	1000
+s	স	1000
+h	হ	1000
+x	ক্ষ	1000
+q	ড়	1000
+Q	ঢ়	1000
+y	য়	1000
+Y	য	1000
+Z	্ট	1000
+Zh	্ঠ	1000
+Zhh	্টহ	1000
+X	্ড	1000
+Xh	্ঢ	1000
+Xhh	্ডহ	1000
+t`	তং	1000
+t``	ৎ	1000
+`	ং	1000
+H	ঃ	1000
+khh	কহ	1000
+ghh	গহ	1000
+chh	চহ	1000
+jhh	জহ	1000
+Thh	টহ	1000
+Dhh	ডহ	1000
+thh	তহ	1000
+dhh	দহ	1000
+phh	ফহ	1000
+bhh	বহ	1000
+~	ঁ	1000
+^	ঁ	1000
+a	া	1000
+ a	 আ	1000
+'a	'আ	1000
+"a	"আ	1000
+A	অ	1000
+AA	আ	1000
+hh	ঽ	1000
+i	ি	1000
+ii	ী	1000
+ee	ী	1000
+I	ই	1000
+II	ঈ	1000
+ i	 ই	1000
+ ii	 ঈ	1000
+'i	'ই	1000
+'ii	'ঈ	1000
+"i	"ই	1000
+"ii	"ঈ	1000
+u	ু	1000
+uu	ূ	1000
+U	উ	1000
+UU	ঊ	1000
+ u	 উ	1000
+ uu	 ঊ	1000
+"u	"উ	1000
+'uu	'ঊ	1000
+'u	'উ	1000
+"uu	"ঊ	1000
+<	ৃ	1000
+rri	ৃ	1000
+R	ঋ	1000
+LL	্ল্ল	1000
+LLi	ঌ	1000
+e	ে	1000
+E	এ	1000
+ e	 এ	1000
+o	ো	1000
+O	ও	1000
+ o	 ও	1000
+ai	ৈ	1000
+au	ৌ	1000
+1	১	1000
+2	২	1000
+3	৩	1000
+4	৪	1000
+5	৫	1000
+6	৬	1000
+7	৭	1000
+8	৮	1000
+9	৯	1000
+0	০	1000
+A	অ	1000
+AA	আ	1000
+I	ই	1000
+II	ঈ	1000
+U	উ	1000
+UU	ঊ	1000
+E	এ	1000
+AI	ঐ	1000
+O	ও	1000
+AU	ঔ	1000
+'ai	'ঐ	1000
+'au	'ঔ	1000
+'ai	'ঐ	1000
+'au	'ঔ	1000
+"ai	"ঐ	1000
+"au	"ঔ	1000
+ao	াও	1000
+ ao	আও	1000
+aii	াই	1000
+auu	াউ	1000
+ei	েই	1000
+ ei	 এই	1000
+eii	েঈ	1000
+ eii	 এইই	1000
+eu	েউ	1000
+euu	েঊ	1000
+iu	িউ	1000
+ iu	 ইউ	1000
+iuu	িঊ	1000
+ iuu	 ইঊ	1000
+iiu	ীউ	1000
+iiu	ঈউ	1000
+ie	িয়ে	1000
+ ie	 ইয়ে	1000
+iii	িই	1000
+iii	িই	1000
+iiii	ীই	1000
+uuu	ুউ	1000
+uuu 	ুউ 	1000
+uuuu	ূউ	1000
+ui	ুই	1000
+ ui	 উই	1000
+uui	ূই	1000
+ uui	 ঊই	1000
+uii	ুঈ	1000
+ uii	 উঈ	1000
+uuii	ূঈ	1000
+ uuii	 ঊঈ	1000
+oa	ওয়া	1000
+oi	োই	1000
+aui	ৌই	1000
+oii	ই	1000
+ouu	উ	1000
+eei	ীই	1000
+<i	ৃই	1000
+rrii	ৃই	1000
+uo	ুও	1000
+uuo	ূও	1000
+ea	েআ	1000
+ea	েয়া	1000
+eo	েও	1000
+io	িও	1000
+iio	ীও	1000
+ia	িয়া	1000
+ia	িআ	1000
+iia	ীআ	1000
+ uo	উও	1000
+ uuo	ঊও	1000
+ ea	এআ	1000
+ ea	এয়া	1000
+ eo	এও	1000
+ io	ইও	1000
+ iio	ঈও	1000
+ ia	ইয়া	1000
+ ia	ইআ	1000
+ iia	ঈআ	1000
+ ua	উয়া	1000
+ ua	উআ	1000
+ uua	ঊয়া	1000
+ uua	ঊআ	1000
+ua	ুয়া	1000
+ua	ুআ	1000
+uua	ূয়া	1000
+uua	ূআ	1000
+ae	ায়ে	1000
+ue	ুয়ে	1000
+\	্	1000
+,,	্	1000
+,	,	1000
+.	।	1000
+..	।।	1000
+...	...	1000
+]	্য	1000
+rr	র্	1000
+jNG	জ্ঞ	1000
+j>	জ্ঞ	1000
+nj	ঞ্জ	1000
+ng	ঙ্গ	1000
+ngh	ঙ্ঘ	1000
+NT	ণ্ট	1000
+NTh	ণ্ঠ	1000
+nk	ঙ্ক	1000
+Ng	ঙ	1000
+Ngk	ঙ্ক	1000
+Ngkh	ঙ্খ	1000
+NgK	ঙ্ক	1000
+NgKh	ঙ্খ	1000
+nKh	ঙ্খ	1000
+nK	ঙ্ক	1000
+kk	ক্ক	1000
+cch	চ্ছ	1000
+cCh	চ্ছ	1000
+cC	চ্চ	1000
+cc	চ্চ	1000
+cchw	চ্ছ্ব	1000
+hw	হ্ব	1000
+cCb	চ্ছ্ব	1000
+cCw	চ্ছ্ব	1000
+jj	জ্জ	1000
+jjw	জ্জ্ব	1000
+jjb	জ্জ্ব	1000
+jw	জ্ব	1000
+njh	ঞ্ঝ	1000
+cN	চণ	1000
+cNG	চ্ঞ	1000
+shT	ষ্ট	1000
+Nd	ণ্ড	1000
+ND	ণ্ড	1000
+TT	ট্ট	1000
+TTh	ট্ঠ	1000
+DD	ড্ড	1000
+dw	দ্ব	1000
+dbh	দ্ভ	1000
+db	দব	1000
+mp	ম্প	1000
+tw	ত্ব	1000
+Tr	ট্র	1000
+shTr	ষ্ট্র	1000
+/	্র	1000
+//	/	1000
+shT	ষট	1000
+lw	ল্ব	1000
+shc	শ্চ	1000
+mf	ম্ফ	1000
+shN	ষ্ণ	1000
+chr	ছ্র	1000
+cchr	চ্ছ্র	1000
+Cr	ছ্র	1000
+Cr	চ্ছ্র	1000
+Dr	ড্র	1000
+ndr	ন্দ্র	1000
+nd	নদ	1000
+ndh	নধ	1000
+ndhu	ন্ধু	1000
+mv	ম্ভ	1000
+nDr	ণ্ড্র	1000
+dr	দর	1000
+NDr	ণ্ড্র	1000
+hN	হ্ণ	1000
+>	্ন	1000
+sw	স্ব	1000
+w	্ব	1000
+shr	শ্র	1000
+L	্ল	1000
+_	্র	1000
+[	্র	1000
+nch	ঞ্ছ	1000
+nC	ঞ্ছ	1000
+nc	ঞ্চ	1000
+NG	ঞ	1000
+ 	 	1000
+NN	ঞ	1000
+!	!	1000
+$	₹	1000
+$$	$	1000
+R<	ৠ	1000
+<<	ৄ	1000
+}	ৢ	1000
+}}	ৣ	1000
+LLi}	ৡ	1000
+HH	ঽ	1000
+END_TABLE
