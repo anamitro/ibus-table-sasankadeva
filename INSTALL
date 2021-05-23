@@ -1,4 +1,4 @@
-(a) Requirements: 'ibus-table' must be installed in your computer and 'ibus' selected as the input method.
+(a) Requirements: 'ibus-table' must be installed in your computer and 'ibus' selected as the input method. See https://github.com/acevery/ibus-table for details.
 (b) To install ibus-table-Sasankadeva version 1.0, extract the .zip file or save the Sasankadeva.txt (or the alternative text) and Sasankadeva.svg in folder, such that these two files remain in a directory, say /<dir.>. Copy the .txt file in same directory with template.txt in ibus-table folder, and the icon with  ibus-table/icons. Refresh ibus. You'll be able to select Bangla (শশাঙ্কদেব) from Bengali input methods (Settings in Ubuntu 20.04, or ibus-setup).
 	E.g., for Ubuntu and for Sasankadeva.txt, open terminal and run
 	$ ibus-table-createdb -n /usr/share/ibus-table/tables/Sasankadeva.db -s /<dir.>/Sasankadeva.txt
