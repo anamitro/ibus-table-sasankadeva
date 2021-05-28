@@ -1,5 +1,7 @@
 # ibus-table-sasankadeva
 (See the attached pdf file for better understanding)
+NOTE: Sasankadeva.txt, when installed (i.e., copied as .db file in assigned directory), shows up only under language Bangla (India), while Sasankadeva_alt.txt would show up in any other format of Bangla as well. If possible under system settings, download sasankadeva.txt and select it as input method under Bangla (India) for increased compatibility. However, both would work well and under same conditions.
+
 DOCUMENTATION: Sasankadeva Unicode, a free add-on for typing Bangla in Linux
 Copyright © 2021 Anamitro Biswas
 
