@@ -30,7 +30,7 @@ NAME =Sasankadeva
 ### We shall not be responsible for any problem created by using this software.
 NAME.bn_IN =শশাঙ্কদেব
 ### Description
-DESCRIPTION = This is a template engine table for IBus Table, for writing Bengali and Sanskrit in Bengali script.
+DESCRIPTION = This is an Ibus Table for layout Sasankadeva for typing Bengali and Sanskrit in Bengali script.
 ### Supported languages of this table
 LANGUAGES = bn_IN
 ### The author of this table
