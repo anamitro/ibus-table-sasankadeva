@@ -1,4 +1,7 @@
 # ibus-table-sasankadeva
+
+For online documentation, visit: https://sites.google.com/view/sasankadeva/docu
+
 LATEST RELEASE v1.1
 (See the attached pdf file for better understanding)
 DOCUMENTATION: Sasankadeva Unicode, a free add-on for typing Bangla in Linux
