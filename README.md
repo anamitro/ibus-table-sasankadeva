@@ -1,5 +1,4 @@
 # Sasankadeva keyboard for Bengali script
-
 ![logo](Sasankadeva_bn.svg)
 
 ## Motivations
