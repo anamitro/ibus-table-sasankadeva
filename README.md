@@ -1,6 +1,6 @@
 # Sasankadeva keyboard for Bengali script
 
-![logo](Sasankadeva.svg)
+![logo](Sasankadeva_bn.svg)
 
 ## Motivations
 Semi-phonetic, i.e., a midway between the accuracy of grammatical typing and the ease of phonetic Indic typing. The ease has been ensured in many ways, including spelling statistics, character combinations and multiple options to be used as suits. Along with our own set of input keys, most popular input strings from widely used Avro Phonetic and itrans-Bangla are also supported.
@@ -40,3 +40,12 @@ To finalize text unit, do the same as above (Shift or double-Shift), and navigat
 ## Example
 | narayN` nmsK narnCaib nrotVmm\. debii` srswtii` byas` tto jymudiirye{.. | নারায়ণং নমস্কৃত্য নরঞ্চৈব নরোত্তমম্। দেবীং সরস্বতীং ব্যাসং ততো জয়মুদীরয়েৎ॥ |
 | --- | --- |
+
+## Author
+[Anamitro Biswas](https://anamitro.github.io)
+
+**Email:** anamitroappu@gmail.com
+
+🇮🇳 Made in India
+
+Copyright (C) 2021-2024 Anamitro Biswas
