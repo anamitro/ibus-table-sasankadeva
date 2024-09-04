@@ -37,7 +37,7 @@ To navigate between suggestions, use Up Arrow Key and Down Arrow Key. To select 
 To finalize text unit, do the same as above (Shift or double-Shift), and navigate through typed text using Left and Right Arrow Keys only after that. Note, unlike Avro and similar methods, here SpaceBar does not denote termination of text unit, rather Backspace, Enter, Shift Space, more than one Shift-s or Tab do.
 
 ## Example
-| narayN` nmsK narnCaib nrotVmm\. debii` srswtii` byas` tto jymudiirye{.. | নারায়ণং নমস্কৃত্য নরঞ্চৈব নরোত্তমম্। দেবীং সরস্বতীং ব্যাসং ততো জয়মুদীরয়েৎ॥ |
+| narayN**`** nmsK narnCaib nrotVmm\. debii` srswtii` byas` tto jymudiirye{.. | নারায়ণং নমস্কৃত্য নরঞ্চৈব নরোত্তমম্। দেবীং সরস্বতীং ব্যাসং ততো জয়মুদীরয়েৎ॥ |
 | --- | --- |
 
 ## Author
