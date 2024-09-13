@@ -1,5 +1,5 @@
-# Sasankadeva keyboard for Bengali script
 <img src="Sasankadeva_bn.svg" alt="drawing" width="400"/>
+# Sasankadeva keyboard for Bengali script
 
 ## Motivations
 Semi-phonetic, i.e., a midway between the accuracy of grammatical typing and the ease of phonetic Indic typing. The ease has been ensured in many ways, including spelling statistics, character combinations and multiple options to be used as suits. Along with our own set of input keys, most popular input strings from widely used Avro Phonetic and itrans-Bangla are also supported.
