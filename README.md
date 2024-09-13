@@ -12,21 +12,27 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 - Dependency: ibus-table (generally installed by default)
 - Download the .deb file as per your requirements; we have a number of flexible options! Extract from the .zip file (if zipped) or simply save the .deb file in your preferred directory.
 - Delete any previous version of Sasankadeva, if you already had it installed, and refresh ibus, e.g., in Ubuntu, by opening the terminal and then running:
+  
     (a)    $ cd /usr/share/ibus-table/tables
+  
     (b)    $ sudo rm ./Sasankadeva.db
+  
     (c) Type Alt+F and then type 'r' without the quotes and Enter. Gnome desktop will refresh.
+  
     (d) Log out and log back in.
+  
 - Open Settings > Languages and Region > Add input method (+).
+  
     (a) If Bengali is your default language of OS, select বাংলা (ভারত) and select Bangla (শশাঙ্কদেব) from there.
+  
     (b) Otherwise, the options for Bangla will be available among 'Others' (⋮). Select Bangla(Sasankadeva) from there.
+  
 - Optionally, Select Bangla (শশাঙ্কদেব) from input methods in Settings (or Ibus Preferences, by running ibus-setup in terminal).
-- 
+ 
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
 
-For the Beginners version, on typing one consonant key, all the yuktaksharas possible with that key
-            **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ (| ; before second consonant)**
-will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences to benefit from that.
+For the Beginners version, on typing one consonant key, all the yuktaksharas possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ (| ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences to benefit from that.
 
 ### NAVIGATION
 #### Switching between English and Bangla:
@@ -43,6 +49,8 @@ Sasankadeva was a 7th century king of Gauda (Bengal) who is remembered for his c
 [Anamitro Biswas](https://anamitro.github.io)
 
 **Email:** anamitroappu@gmail.com
+
+[**Homepage**](https://anamitro.github.io)
 
 🇮🇳 Made in India
 
