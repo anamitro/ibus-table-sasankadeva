@@ -45,7 +45,7 @@ To finalize text unit, do the same as above (Shift or double-Shift), and navigat
 ## Sasankadeva
 Sasankadeva was a 7th century king of Gauda (Bengal) who is remembered for his consolidation of Bengal's statehood and political prominence.
 
-<img src="coin.jpg" alt="drawing" width="600"/>
+<img src="coin.jpg" alt="drawing" width="400"/> **<<** Coins in circulation during Sasankadeva's time
 
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
