@@ -32,6 +32,8 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 
 ### Typing Manual
 
+#### Vowels
+
 |  |  |  |  |
 | --- | --- | --- | --- |
 | অ | আ | ই | ঈ |
@@ -53,16 +55,7 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 | } | }} | e | ai |
 | o | au |  |  |
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| ক | খ | গ | ঘ | ঙ |
-| চ | ছ | জ | ঝ | ঞ |
-| ট | ঠ | ড | ঢ | ণ |
-| ত | থ | দ | ধ | ন |
-| প | ফ | ব | ভ | ম |
-| য | র | ল | ব | শ |
-| ষ | স | হ | ড় | ঢ় |
-| য় | ৎ | ং | ঃ | ঁ |
+#### Consonants
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -74,6 +67,42 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 | য | র | ল | ব | শ |
 | ষ | স | হ | ড় | ঢ় |
 | য় | ৎ | ং | ঃ | ঁ |
+
+##### সাধারণ ব্যঞ্জনবর্ণ অ-কারান্ত রূপ ও যুক্তাক্ষরের প্রথম বর্ণ
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| k | kh | g | gh | Ng |
+| c | ch | j | jh | & |
+| T | Th | D | Dh | N |
+| t | th | d | dh | n |
+| p | f | b | v | m |
+| z | r | l | b | S |
+| Sh | s | h | q | Q |
+| y | { | ` | H | ~ |
+
+
+যুক্তাক্ষরের পরবর্তী বর্ণ
+
+যুক্তাক্ষরের প্রথম বর্ণ
+
+#### Assamese
+
+| ৰ | ৱ |
+| --- | --- |
+| r (assamese version) | B |
+
+#### Sanskrit
+
+| 𑁍 | ঽ | ৺ | ্ |
+| --- | --- | --- | --- |
+| # | hh | ^ | \ |
+
+#### Symbols
+
+| 𑁍 | ₹ | $ | 🇮🇳 |
+| --- | --- | --- | --- |
+| # | $ | $$ | ## |
  
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
