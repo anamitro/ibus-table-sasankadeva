@@ -95,7 +95,7 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 |  |  |  |  |  |
 
 all conjunct second components can also be typed as
-> \(consonant as first component)
+> \ (consonant as first component)
 
 #### যুক্তাক্ষরের প্রথম বর্ণ
 
@@ -106,7 +106,7 @@ all conjunct second components can also be typed as
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  | | |  |  |  |
+|  | $\mid$ |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
