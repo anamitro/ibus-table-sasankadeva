@@ -127,6 +127,16 @@ all conjunct second components can also be typed as
 | 𑁍 | ₹ | $ | 🇮🇳 |
 | --- | --- | --- | --- |
 | # | $ | $$ | ## |
+
+#### Zero Width Non Joiner
+ _ (underscore)
+ 
+ **Use:**
+ 
+ | r\z | r_\z |
+ | --- | --- |
+ | র্য | ‍র‍্য |
+ | $\mid$z | r] |
  
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
