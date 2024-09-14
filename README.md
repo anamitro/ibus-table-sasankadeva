@@ -29,6 +29,23 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
     (b) Otherwise, the options for Bangla will be available among 'Others' (⋮). Select Bangla(Sasankadeva) from there.
   
 - Optionally, Select Bangla (শশাঙ্কদেব) from input methods in Settings (or Ibus Preferences, by running ibus-setup in terminal).
+
+### Typing Manual
+
+| একক |  | স্বরবর্ণ |  |
+| --- | --- | --- | --- |
+| অ | আ | ই | ঈ |
+| উ | ঊ | ঋ | ৠ |
+| ঌ | ৡ | এ | ঐ |
+| ও | ঔ |  |  |
+
+| Separate |  | vowels |  |
+| --- | --- | --- | --- |
+| A | AA/aa | I | II |
+| U | UU | R | R< |
+| LLi | LLi} | E | AI |
+| O | AU |  |  |
+
  
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
