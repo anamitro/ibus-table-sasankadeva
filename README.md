@@ -140,7 +140,7 @@ All conjunct second components can also be typed as
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
 
-For the Beginners version, on typing one consonant key, all the yuktaksharas possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ (| ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences to benefit from that.
+For the Beginners version, on typing one consonant key, all the yuktaksharas possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ ($$\mid$$ ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences to benefit from that.
 
 ### NAVIGATION
 #### Switching between English and Bangla:
