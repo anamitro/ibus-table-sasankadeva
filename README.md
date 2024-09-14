@@ -30,9 +30,9 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
   
 - Optionally, Select Bangla (শশাঙ্কদেব) from input methods in Settings (or Ibus Preferences, by running ibus-setup in terminal).
 
-### Typing Manual
+## Typing Manual
 
-#### Vowels
+### Vowels
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -41,21 +41,21 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 | ঌ | ৡ | এ | ঐ |
 | ও | ঔ |  |  |
 
-| একক |  | স্বরবর্ণ |  |
+| একক | স্বরবর্ণ |  |  |
 | --- | --- | --- | --- |
 | A | AA/aa | I | II |
 | U | UU | R | R< |
 | LLi | LLi} | E | AI |
 | O | AU |  |  |
 
-| স্বরবর্ণ |  | -কার |  |
+| স্বরবর্ণ | -কার |  |  |
 | --- | --- | --- | --- |
 |  | a | i | ii |
 | u | uu | < | << |
 | } | }} | e | ai |
 | o | au |  |  |
 
-#### Consonants
+### Consonants
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 | ষ | স | হ | ড় | ঢ় |
 | য় | ৎ | ং | ঃ | ঁ |
 
-##### সাধারণ ব্যঞ্জনবর্ণ অ-কারান্ত রূপ ও যুক্তাক্ষরের প্রথম বর্ণ
+#### সাধারণ ব্যঞ্জনবর্ণ অ-কারান্ত রূপ ও যুক্তাক্ষরের প্রথম বর্ণ
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -76,29 +76,53 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 | c | ch | j | jh | & |
 | T | Th | D | Dh | N |
 | t | th | d | dh | n |
-| p | f | b | v | m |
+| p | f | b | v/bh | m |
 | z | r | l | b | S |
 | Sh | s | h | q | Q |
 | y | { | ` | H | ~ |
 
+#### যুক্তাক্ষরের পরবর্তী বর্ণ
 
-যুক্তাক্ষরের পরবর্তী বর্ণ
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| K | Kh | G | Gh |  |
+| C | Ch | J | Jh |  |
+| Z | Zh | X | Xh | [ |
+| V | Vh | W | Wh | > |
+| P | F | w | Bh | M |
+| ] | / | L | w |  |
+|  | \s |  |  |  |
+|  |  |  |  |  |
 
-যুক্তাক্ষরের প্রথম বর্ণ
+all conjunct second components can also be typed as
+> \(consonant as first component)
 
-#### Assamese
+#### যুক্তাক্ষরের প্রথম বর্ণ
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | n |
+|  |  |  |  | n |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | | |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+### Assamese
 
 | ৰ | ৱ |
 | --- | --- |
 | r (assamese version) | B |
 
-#### Sanskrit
+### Sanskrit
 
 | 𑁍 | ঽ | ৺ | ্ |
 | --- | --- | --- | --- |
 | # | hh | ^ | \ |
 
-#### Symbols
+### Symbols
 
 | 𑁍 | ₹ | $ | 🇮🇳 |
 | --- | --- | --- | --- |
