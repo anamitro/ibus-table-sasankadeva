@@ -10,6 +10,7 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 
 ## Installation
 - Dependency: ibus-table (generally installed by default)
+- [GitHub repository](https://github.com/anamitro/ibus-table-sasankadeva/)
 - Download the .deb file as per your requirements; we have a number of flexible options! Extract from the .zip file (if zipped) or simply save the .deb file in your preferred directory.
 - Delete any previous version of Sasankadeva, if you already had it installed, and refresh ibus, e.g., in Ubuntu, by opening the terminal and then running:
   
