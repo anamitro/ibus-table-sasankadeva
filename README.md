@@ -32,20 +32,48 @@ Apart from useful well-defined shortcuts that save time while typing, we have fi
 
 ### Typing Manual
 
-| একক |  | স্বরবর্ণ |  |
+|  |  |  |  |
 | --- | --- | --- | --- |
 | অ | আ | ই | ঈ |
 | উ | ঊ | ঋ | ৠ |
 | ঌ | ৡ | এ | ঐ |
 | ও | ঔ |  |  |
 
-| Separate |  | vowels |  |
+| একক |  | স্বরবর্ণ |  |
 | --- | --- | --- | --- |
 | A | AA/aa | I | II |
 | U | UU | R | R< |
 | LLi | LLi} | E | AI |
 | O | AU |  |  |
 
+| স্বরবর্ণ |  | -কার |  |
+| --- | --- | --- | --- |
+|  | a | i | ii |
+| u | uu | < | << |
+| } | }} | e | ai |
+| o | au |  |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| ক | খ | গ | ঘ | ঙ |
+| চ | ছ | জ | ঝ | ঞ |
+| ট | ঠ | ড | ঢ | ণ |
+| ত | থ | দ | ধ | ন |
+| প | ফ | ব | ভ | ম |
+| য | র | ল | ব | শ |
+| ষ | স | হ | ড় | ঢ় |
+| য় | ৎ | ং | ঃ | ঁ |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| ক | খ | গ | ঘ | ঙ |
+| চ | ছ | জ | ঝ | ঞ |
+| ট | ঠ | ড | ঢ | ণ |
+| ত | থ | দ | ধ | ন |
+| প | ফ | ব | ভ | ম |
+| য | র | ল | ব | শ |
+| ষ | স | হ | ড় | ঢ় |
+| য় | ৎ | ং | ঃ | ঁ |
  
 ### BEGINNERS' VERSION
 Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
