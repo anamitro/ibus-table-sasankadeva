@@ -4,7 +4,7 @@
 ## Motivations
 Semi-phonetic, i.e., a midway between the accuracy of grammatical typing and the ease of phonetic Indic typing. The ease has been ensured in many ways, including spelling statistics, character combinations and multiple options to be used as suits. Along with our own set of input keys, most popular input strings from widely used Avro Phonetic and itrans-Bangla are also supported.
 
-Unfortunately, awfully insufficient effort has been put by programmers from India to make a usable input engine for the Bengali script, especially for writers untrained in professional typing. Almost all the publishers, and even the catalogue-searching computers in the National Library, use alternatives from Bangladesh. Now, that's something I specifically wanted to change. Also, Bangladeshi keyboards that are run with inbuilt dictionaries for word suggestions, are inconvenient for the purer form of Indian Bengali, that has a substantially lesser extent of Arabic and Persian loan words that the language standardly spoken in Bangladesh.
+Unfortunately, awfully insufficient effort has been put by programmers from India to make a usable input engine for the Bengali script, especially for writers untrained in professional typing. Almost all the publishers, and even the catalogue-searching computers in the National Library, use alternatives from Bangladesh. Now, that's something I specifically wanted to change. Also, Bangladeshi keyboards that are run with inbuilt dictionaries for word suggestions, are inconvenient for the purer form of Indian Bengali, that has a substantially lesser extent of Arabic and Persian loan words that the language standardly spoken in Bangladesh. Such keyboards don't have much scope for typing in Sanskrit, Assamese, Manipuri etc. other Indian languages that are written in slight variations of the same script. That needn't be.
 
 Apart from useful well-defined shortcuts that save time while typing, we have fixed phonetic-based layout for all usual character combinations in Indian Bengali, so that the user can practically type without looking at the screen if he chooses to. Also, suggestions come up, to be selected from if one is more comfortable with them. We aim at making an algorithm that provides space for both well-defined inputs with phonetic variations, has sets of methods that suits both proffessional and layman typing with one or two hands, that are easy to learn and easier to apply. The interface has been built in ibus-table environment.
 
@@ -114,7 +114,7 @@ All conjunct second components can also be typed as
 
 | ৰ | ৱ |
 | --- | --- |
-| r (assamese version) | B |
+| = | B |
 
 ### Sanskrit
 
@@ -124,9 +124,9 @@ All conjunct second components can also be typed as
 
 ### Symbols
 
-| 𑁍 | ₹ | $ | 🇮🇳 |
+| ☸ | ₹ | $ | 🇮🇳 |
 | --- | --- | --- | --- |
-| # | $ | $$ | ## |
+| @ | $ | $$ | ## |
 
 ### Zero Width Non Joiner
  _ (underscore)
