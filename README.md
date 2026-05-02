@@ -51,10 +51,10 @@ Copy the .db file with root access to /usr/share/ibus-table/tables/ and the logo
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| <span style="font-family: 'Noto Serif Bengali', serif;">অ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">আ | ই | ঈ |
-| উ | ঊ | ঋ | ৠ |
-| ঌ | ৡ | এ | ঐ |
-| ও | ঔ </span>|  |  |
+| <span style="font-family: 'Noto Serif Bengali', serif;">অ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">আ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ই</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঈ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">উ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঊ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঋ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৠ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ঌ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৡ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">এ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঐ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ও</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঔ</span> |  |  |
 
 | একক | স্বরবর্ণ |  |  |
 | --- | --- | --- | --- |
@@ -127,7 +127,7 @@ All conjunct second components can also be typed as
 
 ### Assamese
 
-| ৰ | ৱ |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ৰ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৱ</span> |
 | --- | --- |
 | = | B |
 
@@ -150,7 +150,7 @@ All conjunct second components can also be typed as
  
  | r\z | r_\z |
  | --- | --- |
- | র্য | ‍র‍্য |
+ | <span style="font-family: 'Noto Serif Bengali', serif;">র্য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">‍র‍্য</span> |
  | । z | r] |
  
 ### BEGINNERS' VERSION
