@@ -1,3 +1,9 @@
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
 # Sasankadeva keyboard for Bengali script
 <img src="bn-sasankadeva.png" alt="drawing" width="400"/>
 
@@ -45,7 +51,7 @@ Copy the .db file with root access to /usr/share/ibus-table/tables/ and the logo
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| অ | আ | ই | ঈ |
+| <span style="font-family: 'Noto Serif Bengali', serif;">অ</span> | আ | ই | ঈ |
 | উ | ঊ | ঋ | ৠ |
 | ঌ | ৡ | এ | ঐ |
 | ও | ঔ |  |  |
