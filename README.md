@@ -1,34 +1,43 @@
 # Sasankadeva keyboard for Bengali script
 <img src="bn-sasankadeva.png" alt="drawing" width="400"/>
 
-## Motivations
-Semi-phonetic, i.e., a midway between the accuracy of grammatical typing and the ease of phonetic Indic typing. The ease has been ensured in many ways, including spelling statistics, character combinations and multiple options to be used as suits. Along with our own set of input keys, most popular input strings from widely used Avro Phonetic and itrans-Bangla are also supported.
+- **Custom Phonetic Engine** It is a specialized Bengali input engine designed for the ibus-table framework, focusing on a custom phonetic layout that prioritizes ease of typing.
+- **Unique Transcription Rules** The engine uses a unique set of transcription rules specifically tuned for the Bengali language, aiming to provide a more intuitive experience than standard layouts.
+- **Fixed layout** so that the user can type practically without looking at the screen if he chooses to.
+- **Minor conjunct-related grammatical corrections** inbuilt.
+- **Minimized input key strings** for faster typing.
+- **Open Source Accessibility** Developed by Anamitro Biswas, the project is hosted on GitHub to allow for community contributions and transparent development of Bengali digital tools.  
+- **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
 
-Unfortunately, awfully insufficient effort has been put by programmers from India to make a usable input engine for the Bengali script, especially for writers untrained in professional typing. Almost all the publishers, and even the catalogue-searching computers in the National Library, use alternatives from Bangladesh. Now, that's something I specifically wanted to change. Also, Bangladeshi keyboards that are run with inbuilt dictionaries for word suggestions, are inconvenient for the purer form of Indian Bengali, that has a substantially lesser extent of Arabic and Persian loan words that the language standardly spoken in Bangladesh. Such keyboards don't have much scope for typing in Sanskrit, Assamese, Manipuri etc. other Indian languages that are written in slight variations of the same script. That needn't be.
-
-Apart from useful well-defined shortcuts that save time while typing, we have fixed phonetic-based layout for all usual character combinations in Indian Bengali, so that the user can practically type without looking at the screen if he chooses to. Also, suggestions come up, to be selected from if one is more comfortable with them. We aim at making an algorithm that provides space for both well-defined inputs with phonetic variations, has sets of methods that suits both proffessional and layman typing with one or two hands, that are easy to learn and easier to apply. The interface has been built in ibus-table environment.
 
 ## Installation
-- Dependency: ibus-table (generally installed by default)
-- [GitHub repository](https://github.com/anamitro/ibus-table-sasankadeva/)
-- Download the .deb file as per your requirements; we have a number of flexible options! Extract from the .zip file (if zipped) or simply save the .deb file in your preferred directory.
+- **Dependency**: ibus-table
+- [**GitHub repository**](https://github.com/anamitro/ibus-table-sasankadeva/)
 - Delete any previous version of Sasankadeva, if you already had it installed, and refresh ibus, e.g., in Ubuntu, by opening the terminal and then running:
-  
-    (a)    $ cd /usr/share/ibus-table/tables
-  
-    (b)    $ sudo rm ./Sasankadeva.db
-  
-    (c) Type Alt+F and then type 'r' without the quotes and Enter. Gnome desktop will refresh.
-  
-    (d) Log out and log back in.
-  
-- Open Settings > Languages and Region > Add input method (+).
-  
-    (a) If Bengali is your default language of OS, select বাংলা (ভারত) and select Bangla (শশাঙ্কদেব) from there.
-  
-    (b) Otherwise, the options for Bangla will be available among 'Others' (⋮). Select Bangla(Sasankadeva) from there.
-  
-- Optionally, Select Bangla (শশাঙ্কদেব) from input methods in Settings (or Ibus Preferences, by running ibus-setup in terminal).
+````
+$ cd /usr/share/ibus-table/tables
+$ sudo rm ./Sasankadeva.db
+````
+Refresh
+
+### From source:
+Save .txt and .svg (logo) files in some directory path <dir.>. Check the names, which may vary. In Terminal, run
+````
+$ ibus-table-createdb -n /usr/share/ibus-table/tables/Sasankadeva_bn.db -s /<dir.>/Sasankadeva_bn.txt
+$ sudo cp /<dir.>/Sasankadeva_bn.svg /usr/share/ibus-table/icons/
+$ ibus-daemon -drx
+````
+
+### From .deb or .rpm:
+Download .deb file in directory <dir.>. Check the name (here, assume sasankadeva_bn.deb)
+````
+$ cd /<dir.>
+$ sudo dpkg -i sasankadeva_bn.deb
+````
+Similarly for rpm.
+
+### From .db:
+Copy the .db file with root access to /usr/share/ibus-table/tables/ and the logo .svg to /usr/share/ibus-table/icons/.
 
 ## Typing Manual
 
