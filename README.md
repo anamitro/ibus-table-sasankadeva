@@ -51,10 +51,10 @@ Copy the .db file with root access to /usr/share/ibus-table/tables/ and the logo
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| <span style="font-family: 'Noto Serif Bengali', serif;">অ</span> | আ | ই | ঈ |
+| <span style="font-family: 'Noto Serif Bengali', serif;">অ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">আ | ই | ঈ |
 | উ | ঊ | ঋ | ৠ |
 | ঌ | ৡ | এ | ঐ |
-| ও | ঔ |  |  |
+| ও | ঔ </span>|  |  |
 
 | একক | স্বরবর্ণ |  |  |
 | --- | --- | --- | --- |
