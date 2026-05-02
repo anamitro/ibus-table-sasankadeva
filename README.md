@@ -174,4 +174,4 @@ Sasankadeva was a 7th century king of Gauda (Bengal) who is remembered for his c
 
 🇮🇳 Made in India
 
-Copyright (C) 2021-2024 Anamitro Biswas
+Copyright (C) 2021-2026 Anamitro Biswas
