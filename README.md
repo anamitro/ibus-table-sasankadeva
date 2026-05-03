@@ -5,7 +5,7 @@
 </head>
 
 # Sasankadeva keyboard for Bengali script
-<img src="cat.png" alt="drawing" width="400"/><span style="font-family: 'Noto Serif Bengali', serif; font-size: 1.5rem;">-এর</span><img src="bn-sasankadeva.png" alt="drawing" width="200"/>
+<img src="cat.png" alt="drawing" width="400"/><img src="er.png" alt="drawing" width="400"/><img src="bn-sasankadeva.png" alt="drawing" width="300"/>
 
 - **Custom Phonetic Engine** It is a specialized Unicode Bengali input engine designed for the ibus-table framework, focusing on a custom phonetic layout that prioritizes ease of typing.
 - **Unique Transcription Rules** The engine uses a unique set of transcription rules specifically tuned for the Bengali language, aiming to provide a more intuitive experience than standard layouts.
