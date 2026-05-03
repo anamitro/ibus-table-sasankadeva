@@ -74,14 +74,14 @@ Copy the .db file with root access to /usr/share/ibus-table/tables/ and the logo
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ক | খ | গ | ঘ | ঙ |
-| চ | ছ | জ | ঝ | ঞ |
-| ট | ঠ | ড | ঢ | ণ |
-| ত | থ | দ | ধ | ন |
-| প | ফ | ব | ভ | ম |
-| য | র | ল | ব | শ |
-| ষ | স | হ | ড় | ঢ় |
-| য় | ৎ | ং | ঃ | ঁ |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ক</span> | <span style="font-family: 'Noto Serif Bengali', serif;">খ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">গ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঘ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঙ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">চ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ছ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">জ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঝ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঞ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ট</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঠ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ড</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঢ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ণ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ত</span> | <span style="font-family: 'Noto Serif Bengali', serif;">থ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">দ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ধ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ন</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">প</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ফ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ব</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ভ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ম</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">র</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ল</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ব</span> | <span style="font-family: 'Noto Serif Bengali', serif;">শ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">ষ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">স</span> | <span style="font-family: 'Noto Serif Bengali', serif;">হ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ড়</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঢ়</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">য়</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৎ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ং</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঃ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঁ</span> |
 
 #### সাধারণ ব্যঞ্জনবর্ণ অ-কারান্ত রূপ ও যুক্তাক্ষরের প্রথম বর্ণ
 
