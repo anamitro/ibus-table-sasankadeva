@@ -154,22 +154,13 @@ All conjunct second components can also be typed as
  | । z | r] |
  
 ### BEGINNERS' VERSION
-Lastly, the manual in detail might seem a bit difficult to remember. But, after being used to this method (and even that does not require much practice) it is truly very easy and fast. And not at all so complicated as it seems. To start with, you may use the Beginners version if it helps.
-
-For the Beginners version, on typing one consonant key, all the yuktaksharas possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ ($$\mid$$ ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences to benefit from that.
+For the Beginners version, on typing one consonant key, all the yuktaksharas (conjuncts) possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ ($$\mid$$ ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences.
 
 ### NAVIGATION
-#### Switching between English and Bangla:
-To change keyboard to English (or default keyboard by direct input), press Super+Space or press Shift key (generally twice works). To return to Bengali, press Shift again.
-#### Navigate between suggestions:
-To navigate between suggestions, use Up Arrow Key and Down Arrow Key. To select suggestion, press Shift.
-#### Navigate within text:
-To finalize text unit, do the same as above (Shift or double-Shift), and navigate through typed text using Left and Right Arrow Keys only after that. Note, unlike Avro and similar methods, here SpaceBar does not denote termination of text unit, rather Backspace, Enter, Shift Space, more than one Shift-s or Tab do.
+**Navigate between suggestions:** Arrow keys
+**Unlike Avro, Space doesn't terminate text unit. Enter does.**
 
-## Sasankadeva
-Sasankadeva was a 7th century king of Gauda (Bengal) who is remembered for his consolidation of Bengal's statehood and political prominence.
-
-<img src="coin.jpg" alt="drawing" width="400"/> **<<** Coins in circulation during Sasankadeva's time
+Named after King Sasankadeva of the 7th century.
 
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
