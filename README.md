@@ -160,7 +160,7 @@ For the Beginners version, on typing one consonant key, all the yuktaksharas (co
 **Navigate between suggestions:** Arrow keys
 **Unlike Avro, Space doesn't terminate text unit. Enter does.**
 
-Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a Bengali "Ś", in bold Tiro Bangla font, like the designs of popular ibus-tables, colored as Bharata Mata's attire in Abanindranath Tagore's painting and the topmost panel of the Indian flag.
+Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a Bengali "Śa", in bold Tiro Bangla font, like the designs of popular ibus-tables, colored as Bharata Mata's attire in Abanindranath Tagore's painting and the topmost panel of the Indian flag.
 
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
